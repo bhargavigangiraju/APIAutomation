@@ -1,0 +1,11 @@
+<suite name="API Test suite" preserve-order="true">
+	
+  	   <test name="Project DigiEca" preserve-order="true">
+		    <classes>
+			     <class name="SignInTest.LoginValidation"></class>
+		    </classes>
+	   </test>	
+</suite>
+
+
+

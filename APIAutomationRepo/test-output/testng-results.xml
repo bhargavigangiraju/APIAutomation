@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-25T16:58:54 IST" name="API Test suite" finished-at="2021-02-25T16:58:58 IST" duration-ms="4235">
+    <groups>
+    </groups>
+    <test started-at="2021-02-25T16:58:54 IST" name="Project DigiEca" finished-at="2021-02-25T16:58:58 IST" duration-ms="4235">
+      <class name="SignInTest.LoginValidation">
+        <test-method signature="VerifyLogin()[pri:1, instance:SignInTest.LoginValidation@70be0a2b]" started-at="2021-02-25T16:58:54 IST" name="VerifyLogin" description="To verify Successfull User login with Valid credentials" finished-at="2021-02-25T16:58:58 IST" duration-ms="3965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method signature="verifyErrorLogin()[pri:2, instance:SignInTest.LoginValidation@70be0a2b]" started-at="2021-02-25T16:58:58 IST" name="verifyErrorLogin" description="To verify Error on User login with Invalid credentials" finished-at="2021-02-25T16:58:58 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorLogin -->
+      </class> <!-- SignInTest.LoginValidation -->
+    </test> <!-- Project DigiEca -->
+  </suite> <!-- API Test suite -->
+</testng-results>
